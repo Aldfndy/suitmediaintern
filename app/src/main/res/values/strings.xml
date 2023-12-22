@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TestSuit</string>
+    <string name="app_name">Suitmedia Intern Test</string>
     <string name="check">Check</string>
     <string name="choose_a_user">Choose a User</string>
     <string name="enter_sentence">Palindrome</string>
