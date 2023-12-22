@@ -44,13 +44,16 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding='20dp'/>
+
+        <TextView
+            android:id="@+id/textViewEmptyState"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/no_users_available"
+            android:visibility="gone" />
+
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
-    <TextView
-        android:id="@+id/textViewEmptyState"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/no_users_available"
-        android:visibility="gone" />
+
 
 </RelativeLayout>
