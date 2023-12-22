@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestSuit</string>
+    <string name="check">Check</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="enter_sentence">Palindrome</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="no_users_available">No users available.</string>
+</resources>
